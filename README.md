@@ -5,4 +5,4 @@
 ### PDEs
 -*Deep Generative Models that Solve PDEs :* https://arxiv.org/pdf/2007.12792.pdf
 
-### Quantitative trading & research
+### Generative modelling in quantitative trading
