@@ -10,4 +10,4 @@
 -- *Deep Generative Models that Solve PDEs :* https://arxiv.org/pdf/2007.12792.pdf
 
 ### Generative modelling in quantitative trading
--- *learning to simulate equity option markets* https://arxiv.org/pdf/1911.01700.pdf
+-- *learning to simulate equity option markets : * https://arxiv.org/pdf/1911.01700.pdf
