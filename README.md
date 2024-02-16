@@ -1,4 +1,7 @@
-# Some research papers
+# Some research papers & articles
+
+### Articles 
+-- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
 ### Various
 -- *Path Shadowing Monte-Carlo :*  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532895
