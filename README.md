@@ -21,6 +21,6 @@
 
 -- slides : https://www.maths.ox.ac.uk/system/files/attachments/2019%2004%2024%20Deep%20Hedging%20Frontiers%20Imperial%202.1.pdf
 
---https://www.mdpi.com/1911-8074/15/5/223
+-- Deep partil hedging https://www.mdpi.com/1911-8074/15/5/223
 
 ### 
