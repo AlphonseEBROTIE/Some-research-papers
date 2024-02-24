@@ -25,5 +25,7 @@
 
 ### Thesis
 
--- Risk Management with Generative Adversarial Networks :https://natixis.groupebpce.com/wp-content/uploads/2022/08/lucas-benedikt_fiechner_thesis-_risk_management_with_gan.pdf
+-- Risk Management with Generative Adversarial Networks : 
+
+https://natixis.groupebpce.com/wp-content/uploads/2022/08/lucas-benedikt_fiechner_thesis-_risk_management_with_gan.pdf
 
