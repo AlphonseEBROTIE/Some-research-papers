@@ -23,4 +23,7 @@
 
 -- Deep partial hedging https://www.mdpi.com/1911-8074/15/5/223
 
-### 
+### Thesis
+
+-- Risk Management with Generative Adversarial Networks :https://natixis.groupebpce.com/wp-content/uploads/2022/08/lucas-benedikt_fiechner_thesis-_risk_management_with_gan.pdf
+
