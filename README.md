@@ -32,6 +32,7 @@
 
 -- https://www.quantstart.com/articles/high-frequency-trading-iii-optimal-execution/
 -- https://www.oliviergueant.com/uploads/4/3/0/9/4309511/slides_cfm_imperial.pdf
+-- https://www.oliviergueant.com/
 ### Thesis
 
 -- Risk Management with Generative Adversarial Networks : 
