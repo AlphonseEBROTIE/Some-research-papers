@@ -29,6 +29,8 @@
 
 
 ### Market impact & optimal execution
+
+-- https://www.quantstart.com/articles/high-frequency-trading-iii-optimal-execution/
 ### Thesis
 
 -- Risk Management with Generative Adversarial Networks : 
