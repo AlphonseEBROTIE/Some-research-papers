@@ -27,6 +27,8 @@
 
 -- Deep Hedging with Market Impact: https://arxiv.org/pdf/2402.13326.pdf
 
+
+### Market impact & optimal execution
 ### Thesis
 
 -- Risk Management with Generative Adversarial Networks : 
