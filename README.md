@@ -25,6 +25,8 @@
 
 -- Deep partial hedging https://www.mdpi.com/1911-8074/15/5/223
 
+-- Deep Hedging with Market Impact: https://arxiv.org/pdf/2402.13326.pdf
+
 ### Thesis
 
 -- Risk Management with Generative Adversarial Networks : 
