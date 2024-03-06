@@ -1,6 +1,6 @@
 # Some research papers & articles
 
-### resources &
+### resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
 -- http://www.laurentoudre.fr/ast.html
