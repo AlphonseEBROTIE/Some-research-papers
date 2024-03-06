@@ -1,6 +1,6 @@
 # Some research papers & articles
 
-### resources & beyond
+### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
 -- http://www.laurentoudre.fr/ast.html
@@ -24,6 +24,7 @@
 
 ### Hedging & beyond
 -- https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1571683
+
 -- http://www.deephedging.com/
 
 -- slides : https://www.maths.ox.ac.uk/system/files/attachments/2019%2004%2024%20Deep%20Hedging%20Frontiers%20Imperial%202.1.pdf
