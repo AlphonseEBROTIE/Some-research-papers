@@ -14,6 +14,9 @@
 ### Algorithmic trading
 -- *Slow Momentum with Fast Reversion :* https://www.pm-research.com/content/iijjfds/4/1/111.full.pdf
 
+-- Optimal Entry and Exit with Signature in Statistical Arbitrage : https://arxiv.org/abs/2309.16008
+
+
 ### PDEs & generative models
 -- *Deep Generative Models that Solve PDEs :* https://arxiv.org/pdf/2007.12792.pdf
 
