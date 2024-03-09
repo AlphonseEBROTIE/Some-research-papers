@@ -16,6 +16,7 @@
 
 -- Optimal Entry and Exit with Signature in Statistical Arbitrage : https://arxiv.org/abs/2309.16008
 
+-- Model-free Analysis of Dynamic Trading Strategies : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4489503
 
 ### PDEs & generative models
 -- *Deep Generative Models that Solve PDEs :* https://arxiv.org/pdf/2007.12792.pdf
