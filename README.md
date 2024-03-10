@@ -45,6 +45,9 @@
 -- https://www.oliviergueant.com/uploads/4/3/0/9/4309511/slides_cfm_imperial.pdf
 
 -- https://www.oliviergueant.com/
+
+-- Optimal execution with rough path signatures : https://arxiv.org/pdf/1905.00728.pdf
+
 ### Thesis
 
 -- Risk Management with Generative Adversarial Networks : 
