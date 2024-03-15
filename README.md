@@ -1,5 +1,8 @@
 # Some research papers & articles
 
+### signature , rough paths and beyong 
+
+-- Extracting information from the signature of a financial data stream : *https://arxiv.org/pdf/1307.7244.pdf*
 ### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
