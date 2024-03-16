@@ -1,10 +1,12 @@
 # Some research papers & articles
 
-### signature , rough paths and beyong 
+### Signature , rough paths and beyong 
 
 -- Extracting information from the signature of a financial data stream : *https://arxiv.org/pdf/1307.7244.pdf*
 
 -- A Primer on the Signature Method in Machine Learning : *https://arxiv.org/pdf/1603.03788.pdf*
+
+-- Optimal Entry and Exit with Signature in Statistical Arbitrage : *https://arxiv.org/pdf/1603.03788.pdf*
 ### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
