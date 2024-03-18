@@ -12,12 +12,13 @@
 
 -- http://www.laurentoudre.fr/ast.html
 
--- Generative Machine Learning for Multivariate Equity Returns : https://arxiv.org/abs/2311.14735
+-- https://quantpedia.com/Screener/
 
 ### Various
 -- *Path Shadowing Monte-Carlo :*  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532895
 
 -- Generative Machine Learning for Multivariate Equity Returns : *https://arxiv.org/abs/2311.14735*
+
 ### Algorithmic trading
 -- *Slow Momentum with Fast Reversion :* https://www.pm-research.com/content/iijjfds/4/1/111.full.pdf
 
