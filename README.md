@@ -7,6 +7,7 @@
 -- A Primer on the Signature Method in Machine Learning : *https://arxiv.org/pdf/1603.03788.pdf*
 
 -- Optimal Entry and Exit with Signature in Statistical Arbitrage : *https://arxiv.org/pdf/1603.03788.pdf*
+
 ### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
