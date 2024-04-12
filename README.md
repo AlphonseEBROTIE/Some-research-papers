@@ -8,6 +8,8 @@
 
 -- Optimal Entry and Exit with Signature in Statistical Arbitrage : *https://arxiv.org/pdf/1603.03788.pdf*
 
+-- *Signature-based validation of real-world economic scenarios :* https://arxiv.org/pdf/2208.07251.pdf
+
 ### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
