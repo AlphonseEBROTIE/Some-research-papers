@@ -7,6 +7,7 @@
 -- A Primer on the Signature Method in Machine Learning : *https://arxiv.org/pdf/1603.03788.pdf*
 
 -- Optimal Entry and Exit with Signature in Statistical Arbitrage : *https://arxiv.org/pdf/1603.03788.pdf*
+
 -- Optimal stopping with signatures : *https://arxiv.org/abs/2105.00778*
 
 -- *Signature-based validation of real-world economic scenarios :* https://arxiv.org/pdf/2208.07251.pdf
