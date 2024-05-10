@@ -12,6 +12,8 @@
 
 -- *Signature-based validation of real-world economic scenarios :* https://arxiv.org/pdf/2208.07251.pdf
 
+-- *Deep Signature Transforms :* https://proceedings.neurips.cc/paper_files/paper/2019/file/d2cdf047a6674cef251d56544a3cf029-Paper.pdf
+
 ### Resources & beyond
 -- https://www.toptal.com/deep-learning/deep-learning-trading-hedge-funds
 
