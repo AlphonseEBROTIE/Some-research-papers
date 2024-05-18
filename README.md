@@ -21,6 +21,9 @@
 
 -- https://quantpedia.com/Screener/
 
+-- https://macrosynergy.com/research/evaluating-macro-trading-signals-in-three-simple-steps/
+
+
 ### Various
 -- *Path Shadowing Monte-Carlo :*  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4532895
 
