@@ -1,6 +1,6 @@
 # Some research papers & articles
 
-### Signature , rough paths and beyond 
+### Signature, rough paths and beyond 
 
 -- Extracting information from the signature of a financial data stream : *https://arxiv.org/pdf/1307.7244.pdf*
 
